@@ -1193,7 +1193,7 @@ input[type="submit"].style3:active, input[type="reset"].style3:active, input[typ
 	width: 100%;
 }
 
-.inner2{
+#banner .inner2{
 	flex-basis: 30%;
 }
 
