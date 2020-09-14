@@ -299,6 +299,21 @@
 
 /* Box */
 
+	.flex{
+		display: flex;
+		padding: 2rem;
+		flex-direction: row;
+	}
+
+	.item {
+		flex: 1;
+		margin: 5px;
+		display: flex;
+		justify-content: center;
+		align-items: center;
+		font-size: 2rem;
+	  }
+
 	.thumbnails {
 		display: -moz-flex;
 		display: -webkit-flex;
