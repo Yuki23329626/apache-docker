@@ -514,6 +514,7 @@ input[type="radio"]+label:before {
 
 .shortcut{
 	float: left;
+	width: 33%;
 }
 
 /*.box .image img {
@@ -1189,6 +1190,7 @@ input[type="submit"].style3:active, input[type="reset"].style3:active, input[typ
 	text-align: center;
 	position: relative;
 	z-index: 2;
+	width: 30%;
 }
 
 #banner h1 {
