@@ -1352,6 +1352,10 @@ input[type="submit"].style3:active, input[type="reset"].style3:active, input[typ
 	border: none;
 }
 
+.sectionFont{
+	font-size:3rem;
+}
+
 .anchor{
 	background-image: url("images/arrow.svg");
 	background-size: auto;
