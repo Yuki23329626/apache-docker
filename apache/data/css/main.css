@@ -1193,6 +1193,10 @@ input[type="submit"].style3:active, input[type="reset"].style3:active, input[typ
 	width: 30%;
 }
 
+.inner2{
+	flex-basis: 100%;
+}
+
 #banner h1 {
 	color: #fff;
 	font-size: 5em;
