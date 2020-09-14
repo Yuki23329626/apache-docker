@@ -515,6 +515,8 @@ input[type="radio"]+label:before {
 .shortcut{
 	float: left;
 	width: 33%;
+	text-align: center;
+	line-height: 100%;
 }
 
 /*.box .image img {
