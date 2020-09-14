@@ -1188,13 +1188,14 @@ input[type="submit"].style3:active, input[type="reset"].style3:active, input[typ
 
 #banner .inner {
 	text-align: center;
-	position: center;
+	position: relative;
 	z-index: 2;
 	width: 100%;
 }
 
 #banner .inner2{
 	flex-basis: 30%;
+	margin: auto;
 }
 
 #banner h1 {
