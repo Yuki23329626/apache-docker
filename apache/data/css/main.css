@@ -1357,11 +1357,11 @@ input[type="submit"].style3:active, input[type="reset"].style3:active, input[typ
 	background-size: auto;
 	background-color: #202024;
 	background-repeat: no-repeat;
-	background-position: center 1.35em;
+	background-position: center center;
 	border: 1px solid #202024;
 	color: rgba(255, 255, 255, 0.75);
-	height: 2rem;
-	width: 2rem;
+	height: 4rem;
+	width: 4rem;
 }
 
 #banner .more1 {
