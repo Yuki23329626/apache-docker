@@ -1188,7 +1188,7 @@ input[type="submit"].style3:active, input[type="reset"].style3:active, input[typ
 
 #banner .inner {
 	text-align: center;
-	position: relative;
+	position: center;
 	z-index: 2;
 	width: 100%;
 }
