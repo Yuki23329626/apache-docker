@@ -284,21 +284,6 @@ header h4+p, header h5+p, header h6+p {
 
 /* Box */
 
-.flex {
-	display: flex;
-	padding: 1em;
-	flex-direction: row;
-}
-
-.item {
-	flex: 1;
-	margin: 5px;
-	display: flex;
-	justify-content: center;
-	align-items: center;
-	font-size: 2rem;
-}
-
 .thumbnails {
 	display: -moz-flex;
 	display: -webkit-flex;
@@ -525,6 +510,11 @@ input[type="radio"]+label:before {
 
 .box .image.fit {
 	margin: 0;
+}
+
+.shortcut{
+	width: 33%;
+	height: 10rem;
 }
 
 /*.box .image img {
@@ -1350,22 +1340,6 @@ input[type="submit"].style3:active, input[type="reset"].style3:active, input[typ
 #banner a:hover {
 	color: #FFF;
 	border: none;
-}
-
-.sectionFont{
-	font-size:3rem;
-}
-
-.anchor{
-	background-image: url("images/arrow.svg");
-	background-size: auto;
-	background-color: #202024;
-	background-repeat: no-repeat;
-	background-position: center center;
-	border: 1px solid #202024;
-	color: rgba(255, 255, 255, 0.75);
-	height: 4rem;
-	width: 4rem;
 }
 
 #banner .more1 {
