@@ -513,8 +513,8 @@ input[type="radio"]+label:before {
 }
 
 .shortcut{
+	float: left;
 	width: 33%;
-	height: 5rem;
 }
 
 /*.box .image img {
