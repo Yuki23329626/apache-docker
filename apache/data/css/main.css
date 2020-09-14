@@ -1193,9 +1193,10 @@ input[type="submit"].style3:active, input[type="reset"].style3:active, input[typ
 	width: 100%;
 }
 
-#banner .inner2{
+.inner2{
 	flex-basis: 30%;
-	margin: auto;
+  justify-content: center;
+  align-items: center; 
 }
 
 #banner h1 {
