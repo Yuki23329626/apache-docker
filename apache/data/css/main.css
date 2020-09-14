@@ -1354,6 +1354,11 @@ input[type="submit"].style3:active, input[type="reset"].style3:active, input[typ
 
 .anchor{
 	background-image: url("images/arrow.svg");
+	background-size: auto;
+	border: 1px solid #202024;
+	color: rgba(255, 255, 255, 0.75);
+	height: 4em;
+	width: 4em;
 }
 
 #banner .more1 {
