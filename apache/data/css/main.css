@@ -513,7 +513,7 @@ input[type="radio"]+label:before {
 }
 
 .shortcut{
-	float: left;
+	display: inline-block;
 	width: 33%;
 }
 
