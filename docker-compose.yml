@@ -4,7 +4,7 @@ services:
   apache:
     build: ./apache
     ports:
-      - "9021:80"
+      - "9021:443"
     volumes:
       - ./apache/data:/usr/local/apache2/htdocs:rw
     networks:
