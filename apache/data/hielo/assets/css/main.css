@@ -1810,7 +1810,7 @@
 	.box {
 		height: 100%;
 		margin-bottom: 2rem;
-		/* background: rgb(255, 255, 255); */
+		background: #FFF;
 	}
 
 		.box .image.fit {
@@ -1907,6 +1907,15 @@
 		font-size: 1.5rem;
 		color: rgb(255, 255, 255);
 	}
+	/* .doc {
+		background-color: rgb(33, 60, 180);
+	}
+	.ppt {
+		background-color: rgb(180, 97, 20);
+	}
+	.video {
+		background-color: rgb(160, 44, 44);
+	} */
 
 	input[type="submit"].doc,
 	input[type="reset"].doc,
@@ -2920,8 +2929,8 @@
 			}
 
 		.wrapper.style2 {
-			background-color: #ffffff;
-			color: #2e2e2e;
+			background-color: #f2f2f2;
+			color: #a6a6a6;
 		}
 
 			.wrapper.style2 input, .wrapper.style2 select, .wrapper.style2 textarea {
@@ -4321,7 +4330,7 @@
 
 	#footer {
 		padding: 4rem 0 2rem 0 ;
-		background: rgb(43, 43, 43);
+		background: #000;
 		text-align: center;
 	}
 
@@ -4353,7 +4362,6 @@
 
 			#footer {
 				padding: 3rem 0 1rem 0 ;
-				background-color: #444;
 			}
 
 		}
