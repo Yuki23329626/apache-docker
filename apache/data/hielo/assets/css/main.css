@@ -3148,6 +3148,8 @@
 			background-attachment: fixed;
 			background-position: center;
 			position: relative;
+			max-height: 5rem;
+			overflow: hidden;
 		}
 
 			.wrapper.style3 input, .wrapper.style3 select, .wrapper.style3 textarea {
