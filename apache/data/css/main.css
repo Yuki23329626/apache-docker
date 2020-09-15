@@ -308,6 +308,26 @@ header h4+p, header h5+p, header h6+p {
 	width: 30%;
 }
 
+.flex {
+	display: flex;
+	height: 2em;
+	padding: 15px;
+	background-color: #61a0f8;
+	flex-wrap: wrap;
+	justify-content: center;
+}
+
+.flex_item {
+	flex: 0 0 30%;
+	background-color: #f08bc3;
+	margin: 5px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	color: white;
+	font-size: 2rem;
+  }
+
 @media screen and (max-width: 1280px) {
 	.thumbnails .box {
 		width: 45%;
@@ -1188,19 +1208,19 @@ input[type="submit"].style3:active, input[type="reset"].style3:active, input[typ
 	width: 100%;
 }
 
-.inner2{
+.inner2 {
 	flex-basis: 30%;
 	text-align: center;
 	vertical-align: middle;
 }
 
-.shortcut{
+.shortcut {
 	float: left;
 	width: 33%;
 	height: 100px;
 }
 
-.shortcut_item{
+.shortcut_item {
 	text-align: center;
 	vertical-align: middle;
 }
