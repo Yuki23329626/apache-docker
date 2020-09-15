@@ -3404,7 +3404,7 @@
 
 	.grid-style {
 		width: 100%;
-		margin: 2.5rem 0 2.5rem 0;
+		margin: 1.5rem 0 2.5rem 0;
 		display: -moz-flex;
 		display: -webkit-flex;
 		display: -ms-flex;
@@ -3442,11 +3442,11 @@
 		}
 
 		.grid-style > :nth-child(-n + 3) {
-			padding-top: 0;
+			/* padding-top: 0; */
 		}
 
 		.grid-style > :nth-last-child(-n + 3) {
-			padding-bottom: 0;
+			/* padding-bottom: 0; */
 		}
 
 		.grid-style > :nth-child(3n + 1) {
