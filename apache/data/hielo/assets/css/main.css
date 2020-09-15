@@ -1849,6 +1849,7 @@
 
 		.box .content {
 			padding: 1.5rem;
+			background-color: #444;
 		}
 
 		.box > :last-child,
@@ -4347,6 +4348,7 @@
 			margin: 0 0 2rem 0;
 			padding: 0;
 			text-align: center;
+			background-color: #444;
 		}
 
 		@media screen and (max-width: 736px) {
