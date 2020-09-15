@@ -3428,8 +3428,7 @@
 			-webkit-flex-grow: 0;
 			-ms-flex-grow: 0;
 			flex-grow: 0;
-			min-height: 40rem;
-			max-height: 40rem;
+			min-height: 32rem;
 			overflow:hidden;
 		}
 
