@@ -1907,6 +1907,15 @@
 		font-size: 1.5rem;
 		color: rgb(255, 255, 255);
 	}
+	.button.doc {
+		background-color: rgb(33, 60, 180);
+	}
+	.button.ppt {
+		background-color: rgb(180, 97, 20);
+	}
+	.button.video {
+		background-color: rgb(160, 44, 44);
+	}
 
 		input[type="submit"].icon,
 		input[type="reset"].icon,
@@ -2014,15 +2023,7 @@
 			color: #555 !important;
 		}
 
-		.button.doc {
-			background-color: rgb(33, 60, 180);
-		}
-		.button.ppt {
-			background-color: rgb(180, 97, 20);
-		}
-		.button.video {
-			background-color: rgb(160, 44, 44);
-		}
+
 
 			input[type="submit"].alt:hover,
 			input[type="reset"].alt:hover,
