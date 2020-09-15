@@ -1921,7 +1921,7 @@
 		background-color: rgb(160, 44, 44);
 	} */
 
-	input[type="submit"].doc,
+	/* input[type="submit"].doc,
 	input[type="reset"].doc,
 	input[type="button"].doc,
 	button.doc,
@@ -1943,7 +1943,7 @@
 	button.video,
 	.button.video {
 		background-color: rgb(160, 44, 44);
-	}
+	} */
 
 		input[type="submit"].icon,
 		input[type="reset"].icon,
@@ -2022,7 +2022,7 @@
 	button,
 	.button {
 		background-color: #f2f2f2;
-		color: #000 !important;
+		color: rgb(255, 255, 255) !important;
 	}
 
 		input[type="submit"]:hover,
@@ -2030,7 +2030,7 @@
 		input[type="button"]:hover,
 		button:hover,
 		.button:hover {
-			background-color: white;
+			background-color: rgb(0, 0, 0);
 		}
 
 		input[type="submit"]:active,
