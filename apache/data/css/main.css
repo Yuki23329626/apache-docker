@@ -1183,7 +1183,6 @@ input[type="submit"].style3:active, input[type="reset"].style3:active, input[typ
 }
 
 .inner {
-	text-align: center;
 	position: relative;
 	z-index: 2;
 	width: 100%;
