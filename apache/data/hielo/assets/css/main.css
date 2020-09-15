@@ -1684,7 +1684,7 @@
 	h1, h2, h3, h4, h5, h6 {
 		font-weight: 300;
 		line-height: 1;
-		margin: 0 0 1rem 0;
+		margin: 0 0 1.5rem 0;
 	}
 
 		h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
@@ -1823,7 +1823,7 @@
 			}
 
 		.box header h2 {
-			margin-bottom: 2rem;
+			margin-bottom: 1rem;
 		}
 
 		.box header p {
@@ -1902,6 +1902,7 @@
 		text-decoration: none;
 		text-transform: uppercase;
 		white-space: nowrap;
+		margin: 1rem 0;
 	}
 
 		input[type="submit"].icon,
