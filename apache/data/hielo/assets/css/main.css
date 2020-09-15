@@ -3418,6 +3418,7 @@
 		-ms-align-items: stretch;
 		align-items: stretch;
 		min-height: 15rem;
+		max-height: 15rem;
 	}
 
 		.grid-style > * {
