@@ -1851,6 +1851,10 @@
 			padding: 1.5rem;
 		}
 
+		.box .content h2{
+			color: rgb(245, 245, 245);
+		}
+
 		.box > :last-child,
 		.box > :last-child > :last-child,
 		.box > :last-child > :last-child > :last-child {
