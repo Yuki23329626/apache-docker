@@ -3436,7 +3436,7 @@
 
 		.grid-style > * {
 			padding: 2rem;
-			width: calc(33% + 2rem);
+			width: calc(33% + 1rem);
 		}
 
 		.grid-style > :nth-child(-n + 3) {
@@ -3448,11 +3448,11 @@
 		}
 
 		.grid-style > :nth-child(3n + 1) {
-			padding-left: 0;
+			/* padding-left: 0; */
 		}
 
 		.grid-style > :nth-child(3n) {
-			padding-right: 0;
+			/* padding-right: 0; */
 		}
 
 		.grid-style > :nth-child(3n + 1),
