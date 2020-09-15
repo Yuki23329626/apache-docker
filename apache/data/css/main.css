@@ -1189,13 +1189,15 @@ input[type="submit"].style3:active, input[type="reset"].style3:active, input[typ
 	width: 100%;
 }
 
-.inner2{
+#banner .inner2{
+	display: flex;
+	justify-content: center;
 	flex-basis: 30%;
 	text-align: center;
 	vertical-align: middle;
 }
 
-.shortcut{
+#banner .shortcut{
 	justify-content: center;
 	display: flex;
 	float: left;
