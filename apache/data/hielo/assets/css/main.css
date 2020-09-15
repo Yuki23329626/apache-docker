@@ -1808,6 +1808,7 @@
 /* Box */
 
 	.box {
+		height: 100%;
 		margin-bottom: 2rem;
 		background: #FFF;
 	}
