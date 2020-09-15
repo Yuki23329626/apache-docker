@@ -512,6 +512,14 @@ input[type="radio"]+label:before {
 	margin: 0;
 }
 
+.shortcut{
+	float: left;
+	width: 33%;
+	height: 100px;
+	text-align: center;
+	vertical-align: middle;
+}
+
 /*.box .image img {
 			border-radius: 4px 4px 0 0;
 		}*/
