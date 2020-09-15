@@ -294,7 +294,8 @@ var settings = {
 
 		// Header.
 			if (skel.vars.IEVersion < 9)
-				$header.removeClass('alt');
+				$header.hasClass('alt');
+				// $header.removeClass('alt');
 
 			if ($banner.length > 0
 			&&	$header.hasClass('alt')) {
