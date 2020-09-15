@@ -3417,8 +3417,6 @@
 		-webkit-align-items: stretch;
 		-ms-align-items: stretch;
 		align-items: stretch;
-		min-height: 15rem;
-		max-height: 15rem;
 	}
 
 		.grid-style > * {
@@ -3430,6 +3428,8 @@
 			-webkit-flex-grow: 0;
 			-ms-flex-grow: 0;
 			flex-grow: 0;
+			min-height: 15rem;
+			max-height: 15rem;
 		}
 
 		.grid-style > * {
