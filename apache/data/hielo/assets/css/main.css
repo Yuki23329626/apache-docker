@@ -3457,7 +3457,7 @@
 
 		.grid-style > :nth-child(2n + 1),
 		.grid-style > :nth-child(2n) {
-			width: calc(50% + 0rem);
+			width: calc(30% + 0rem);
 		}
 
 		.grid-style .box {
