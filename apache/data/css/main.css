@@ -1196,6 +1196,8 @@ input[type="submit"].style3:active, input[type="reset"].style3:active, input[typ
 }
 
 .shortcut{
+	justify-content: center;
+	display: flex;
 	float: left;
 	width: 33%;
 	height: 100px;
