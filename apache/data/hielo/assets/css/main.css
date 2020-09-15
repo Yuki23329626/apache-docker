@@ -1662,7 +1662,7 @@
 
 		p.special {
 			text-transform: uppercase;
-			font-size: 1.2rem;
+			font-size: .75rem;
 			font-weight: 300;
 			margin: 0 0 .5rem 0;
 			padding: 0 0 1rem 0;
@@ -3148,7 +3148,7 @@
 			background-attachment: fixed;
 			background-position: center;
 			position: relative;
-			max-height: 8rem;
+			max-height: 10rem;
 			overflow: hidden;
 		}
 
