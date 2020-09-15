@@ -3404,7 +3404,7 @@
 
 	.grid-style {
 		width: 100%;
-		margin: 100px 0 2.5rem 0;
+		margin: 2.5rem 0 2.5rem 0;
 		display: -moz-flex;
 		display: -webkit-flex;
 		display: -ms-flex;
