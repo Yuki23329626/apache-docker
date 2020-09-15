@@ -15,7 +15,8 @@ html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockq
 	border: 0;
 	font-size: 100%;
 	font: inherit;
-	vertical-align: baseline;
+	text-align: center;
+	vertical-align: middle;
 }
 
 article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section {
@@ -137,8 +138,6 @@ a {
 	color: rgba(255, 255, 255, 0.75);
 	text-decoration: none;
 	border-bottom: 1px dotted;
-	text-align: center;
-	vertical-align: middle;
 	outline: 0;
 }
 
@@ -1212,8 +1211,6 @@ input[type="submit"].style3:active, input[type="reset"].style3:active, input[typ
 	font-size: 5em;
 	font-weight: 400;
 	font-family: 'Passion One', cursive;
-	text-align: center;
-	vertical-align: middle;
 	margin: 0;
 	text-shadow: black 2px 4px, black 4px 2px, black 0px 2px, black 2px 0px, black 0.6px 0.6px, black 3.4px 3.4px, black 3.4px 0.6px, black 0.6px 3.4px;
 }
