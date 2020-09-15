@@ -1195,9 +1195,9 @@ input[type="submit"].style3:active, input[type="reset"].style3:active, input[typ
 }
 
 .shortcut{
-	float: none;
+	float: left;
 	width: 33%;
-	height: 100px;
+	height: 500px;
 	text-align: center;
 	vertical-align: middle;
 }
