@@ -1907,13 +1907,28 @@
 		font-size: 1.5rem;
 		color: rgb(255, 255, 255);
 	}
-	.doc {
+
+	input[type="submit"].doc,
+	input[type="reset"].doc,
+	input[type="button"].doc,
+	button.doc,
+	.button.doc {
 		background-color: rgb(33, 60, 180);
 	}
-	.ppt {
+
+	input[type="submit"].ppt,
+	input[type="reset"].ppt,
+	input[type="button"].ppt,
+	button.ppt,
+	.button.ppt {
 		background-color: rgb(180, 97, 20);
 	}
-	.video {
+
+	input[type="submit"].video,
+	input[type="reset"].video,
+	input[type="button"].video,
+	button.video,
+	.button.video {
 		background-color: rgb(160, 44, 44);
 	}
 
