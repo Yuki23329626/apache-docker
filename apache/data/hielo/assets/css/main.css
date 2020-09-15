@@ -1902,7 +1902,7 @@
 		text-decoration: none;
 		text-transform: uppercase;
 		white-space: nowrap;
-		margin: 1rem 0;
+		margin: .5rem 0;
 	}
 
 		input[type="submit"].icon,
