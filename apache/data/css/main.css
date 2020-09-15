@@ -1179,6 +1179,7 @@ input[type="submit"].style3:active, input[type="reset"].style3:active, input[typ
 	position: relative;
 	text-align: center;
 	overflow: hidden;
+	justify-content: center;
 }
 
 #banner .inner {
