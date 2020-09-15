@@ -1184,6 +1184,8 @@ input[type="submit"].style3:active, input[type="reset"].style3:active, input[typ
 
 .inner {
 	display: flex;
+	position: relative;
+	z-index: 2;
 	flex-basis: 100%;
 }
 
