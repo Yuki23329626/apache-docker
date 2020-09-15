@@ -1907,13 +1907,13 @@
 		font-size: 1.5rem;
 		color: rgb(255, 255, 255);
 	}
-	.button.doc {
+	.doc {
 		background-color: rgb(33, 60, 180);
 	}
-	.button.ppt {
+	.ppt {
 		background-color: rgb(180, 97, 20);
 	}
-	.button.video {
+	.video {
 		background-color: rgb(160, 44, 44);
 	}
 
