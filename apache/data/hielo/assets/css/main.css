@@ -1848,7 +1848,7 @@
 			}
 
 		.box .content {
-			padding: 1rem;
+			padding: 1.5rem;
 		}
 
 		.box > :last-child,
@@ -1866,7 +1866,7 @@
 		@media screen and (max-width: 736px) {
 
 			.box .content {
-				padding: 2rem;
+				padding: 1.5rem;
 			}
 
 		}
