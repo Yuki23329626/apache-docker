@@ -3483,8 +3483,8 @@
 		}
 
 		.grid-style > * {
-			padding: .5rem;
-			width: calc(33% + 1rem);
+			padding: 0rem;
+			width: calc(33% + 0rem);
 		}
 
 		.grid-style > :nth-child(-n + 3) {
