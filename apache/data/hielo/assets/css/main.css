@@ -2121,7 +2121,7 @@
 		background-color: #d1d1d1;
 		color: #686666;
 		position: absolute;
-		right: -20px;
+		left: -20px;
 		top: 0;
 		bottom: 0;
 		margin: auto;
@@ -3957,7 +3957,7 @@
 		position: fixed;
 		right: 0;
 		top: 0;
-		visibility: hidden;
+		visibility: visible;
 		width: 20rem;
 		z-index: 10002;
 	}
