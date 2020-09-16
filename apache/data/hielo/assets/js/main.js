@@ -284,7 +284,7 @@ var settings = {
 				.append('<a href="#menu" class="close"></a>')
 				.appendTo($body)
 				.panel({
-					delay: 100000,
+					delay: 0,
 					hideOnClick: true,
 					hideOnSwipe: true,
 					resetScroll: true,
