@@ -3141,7 +3141,7 @@
 			}
 
 		.wrapper.style3 {
-			background-color: #000;
+			/* background-color: #000; */
 			color: #bfbfbf;
 			background-image: url(../../images/bg.jpg);
 			background-size: cover;
