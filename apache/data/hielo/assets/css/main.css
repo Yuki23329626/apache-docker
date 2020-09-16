@@ -3954,7 +3954,7 @@
 		max-width: 80%;
 		overflow-y: auto;
 		padding: 3rem 2rem;
-		position: fixed;
+		/* position: fixed; */
 		right: 0;
 		top: 0;
 		visibility: visible;
