@@ -1698,6 +1698,16 @@ form {
 		margin: 0 0 1rem 0;
 	} */
 
+#class{
+	position: relative;
+	top: 3.25rem;
+}
+
+#experiment{
+	position: relative;
+	top: 3.25rem;
+}
+
 .side-menu {
 	width: 300px;
 	height: 100%;
