@@ -3483,7 +3483,7 @@
 		}
 
 		.grid-style > * {
-			padding: 0 0 0 0;
+			padding: .5rem;
 			width: calc(33% + 1rem);
 		}
 
