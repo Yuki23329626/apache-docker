@@ -2621,7 +2621,7 @@
 
 	header p {
 		position: relative;
-		margin-top: 1rem;
+		margin: 1rem 0 0 0;
 	}
 
 	header h2 + p {
