@@ -3884,10 +3884,10 @@
 			}
 
 		#header.reveal {
-			-moz-animation: reveal-header .5s ease;
-			-webkit-animation: reveal-header .5s ease;
-			-ms-animation: reveal-header .5s ease;
-			animation: reveal-header .5s ease;
+			-moz-animation: reveal-header 0.5s ease;
+			-webkit-animation: reveal-header 0.5s ease;
+			-ms-animation: reveal-header 0.5s ease;
+			animation: reveal-header 0.5s ease;
 		}
 
 		#header.alt {
@@ -3895,15 +3895,15 @@
 			-webkit-animation: none;
 			-ms-animation: none;
 			animation: none;
-			box-shadow: none;
-			overflow: hidden; */
-			/* position: absolute;
-			top: 1.5em; */
 			background-color: transparent;
-			-moz-animation: reveal-header 0s ease;
-			-webkit-animation: reveal-header 0s ease;
-			-ms-animation: reveal-header 0s ease;
-			animation: reveal-header 0s ease;
+			box-shadow: none;
+			overflow: hidden;
+			position: absolute;
+			top: 1.5em; */
+			-moz-animation: reveal-header 0.5s ease;
+			-webkit-animation: reveal-header 0.5s ease;
+			-ms-animation: reveal-header 0.5s ease;
+			animation: reveal-header 0.5s ease;
 		}
 
 			#header.alt h1 {
