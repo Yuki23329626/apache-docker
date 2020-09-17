@@ -2621,19 +2621,19 @@
 
 	header h2 + p {
 		font-size: 1.25rem;
-		margin-top: -1rem;
+		margin-top: -0.5rem;
 	}
 
 	header h3 + p {
 		font-size: 1.1rem;
-		margin-top: -0.8rem;
+		margin-top: -0.4rem;
 	}
 
 	header h4 + p,
 	header h5 + p,
 	header h6 + p {
 		font-size: 0.9rem;
-		margin-top: -0.6rem;
+		margin-top: -0.3rem;
 	}
 
 	header p {
