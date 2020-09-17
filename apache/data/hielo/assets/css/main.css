@@ -2046,9 +2046,9 @@
 		input[type="button"].alt,
 		button.alt,
 		.button.alt {
+			color: rgb(228, 228, 228) !important;
 			background-color: rgb(66, 66, 66);
 			border: 2px solid #ffffff;
-			color: rgb(228, 228, 228) !important;
 		}
 
 
