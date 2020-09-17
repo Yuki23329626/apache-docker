@@ -2619,10 +2619,10 @@
 		margin: 0 0 1.5rem 0;
 	}
 
-	header h2 + p {
+	/* header h2 + p {
 		font-size: 1.25rem;
 		margin-top: -1rem;
-	}
+	} */
 
 	header h2{
 		margin-top: 1rem;
