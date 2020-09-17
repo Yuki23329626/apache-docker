@@ -2047,7 +2047,7 @@
 		button.alt,
 		.button.alt {
 			background-color: rgb(66, 66, 66);
-			box-shadow: inset 0 0 0 2px rgba(185, 185, 185, 0.25);
+			border: 2px solid #ffffff;
 			color: rgb(228, 228, 228) !important;
 		}
 
