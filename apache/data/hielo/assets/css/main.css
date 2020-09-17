@@ -3900,10 +3900,10 @@
 			position: absolute;
 			top: 1.5em; */
 			background-color: transparent;
-			-moz-animation: reveal-header 0.5s ease;
+			/* -moz-animation: reveal-header 0.5s ease;
 			-webkit-animation: reveal-header 0.5s ease;
 			-ms-animation: reveal-header 0.5s ease;
-			animation: reveal-header 0.5s ease;
+			animation: reveal-header 0.5s ease; */
 		}
 
 			#header.alt h1 {
