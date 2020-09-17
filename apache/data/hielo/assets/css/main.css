@@ -2988,6 +2988,7 @@
 
 			.wrapper.style2 .box {
 				border-color: rgba(27, 27, 27, 0.15);
+				border-radius: 2px 2px 2px 2px;
 			}
 
 			.wrapper.style2 input[type="submit"],
