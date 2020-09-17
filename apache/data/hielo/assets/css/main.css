@@ -1819,7 +1819,7 @@
 
 			.box .image.fit img {
 				border-radius: 0;
-				margin: 5px;
+				padding: 5px 5px 5px 5px;
 			}
 
 		.box header h2 {
