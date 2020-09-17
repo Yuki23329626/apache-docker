@@ -1770,7 +1770,7 @@
 
 	.align-center {
 		text-align: center;
-		background-color: rgb(19, 19, 19);
+		background-color: rgb(126, 126, 126);
 	}
 
 	.align-right {
@@ -1853,7 +1853,7 @@
 		}
 
 		.box .content .align-center h2{
-			color: rgb(255, 255, 255)55);
+			color: rgb(255, 255, 255);
 		}
 
 		.box > :last-child,
@@ -2049,7 +2049,7 @@
 		.button.alt {
 			background-color: rgb(32, 32, 32);
 			box-shadow: inset 0 0 0 2px rgba(255, 255, 255, 0.25);
-			color: #555 !important;
+			color: rgb(255, 255, 255) !important;
 		}
 
 
