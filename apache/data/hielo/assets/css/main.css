@@ -1815,7 +1815,7 @@
 
 		.box .image.fit {
 			margin: 0;
-			border-radius: 0;
+			border-radius: 10px 10px 0 0;
 		}
 
 			.box .image.fit img {
@@ -2988,7 +2988,7 @@
 
 			.wrapper.style2 .box {
 				border-color: rgba(27, 27, 27, 0.15);
-				border-radius: 5px;
+				border-radius: 10px;
 			}
 
 			.wrapper.style2 input[type="submit"],
