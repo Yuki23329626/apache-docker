@@ -2621,7 +2621,7 @@
 
 	header h2 + p {
 		font-size: 1.25rem;
-		margin-top: -1rem;
+		margin-top: 500rem 0 0 0;
 	}
 
 	header h3 + p {
@@ -4087,7 +4087,6 @@
 
 		.banner h1, .banner h2, .banner h3, .banner h4, .banner h5, .banner h6 {
 			color: #ffffff;
-			margin: 1rem 0 0 0;
 		}
 
 		.banner blockquote {
