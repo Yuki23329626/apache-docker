@@ -1909,6 +1909,7 @@
 		white-space: nowrap;
 		margin: .5rem 0;
 		font-size: 1.5rem;
+		color: rgb(255, 255, 255);
 	}
 	/* .doc {
 		background-color: rgb(33, 60, 180);
