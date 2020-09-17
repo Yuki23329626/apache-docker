@@ -3895,11 +3895,11 @@
 			-webkit-animation: none;
 			-ms-animation: none;
 			animation: none;
-			background-color: transparent;
 			box-shadow: none;
 			overflow: hidden;
 			position: absolute;
 			top: 1.5em; */
+			background-color: transparent;
 			-moz-animation: reveal-header 0s ease;
 			-webkit-animation: reveal-header 0s ease;
 			-ms-animation: reveal-header 0s ease;
