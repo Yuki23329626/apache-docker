@@ -6,8 +6,9 @@ More information about tags please check [Apache, is a Web server - Docker Hub](
 
 ## conf
 
-The place which stores config file of apache server  
-It will copy the http.conf you put in the ./conf/ into the container  
+The place which stores config file of apache server.  
+It will copy the http.conf you put in the ./conf/ into the container's /usr/local/apache2/conf/,  
+which is the default path of Apache's config file
 
 ## ssl
 
