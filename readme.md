@@ -1,8 +1,8 @@
-# docker container for apache web server
+# Docker container for apache web server
 
 ## build
 
-build the image of apache web server as a container by docker-compose
+build the image of apache as a container by docker-compose
 
 ```bash
 sh build.sh
