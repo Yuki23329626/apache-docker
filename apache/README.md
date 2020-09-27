@@ -1,6 +1,6 @@
 # Dockerfile
 
-It will pull apache image from docker hub to build the container  
+It will pull the Apache image from docker hub to build the container  
 you can choose which version of apache http server you want by changing the tag  
 More information about tags please check [Apache, is a Web server - Docker Hub](https://hub.docker.com/_/httpd)  
 
