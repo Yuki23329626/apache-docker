@@ -1,12 +1,12 @@
 # Dockerfile
 
 It will pull the Apache image from docker hub to build the container  
-you can choose which version of apache http server you want by changing the tag  
+you can choose which version of Apache http server you want by changing the tag  
 More information about tags please check [Apache, is a Web server - Docker Hub](https://hub.docker.com/_/httpd)  
 
 ## conf
 
-The place which stores config file of apache server.  
+The place which stores config file of Apache server.  
 It will copy the http.conf you put in the ./conf/ into the container's /usr/local/apache2/conf/,  
 which is the default path of Apache's config file
 
