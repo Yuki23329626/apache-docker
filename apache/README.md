@@ -2,7 +2,7 @@
 
 It will pull the Apache image from docker hub to build the container  
 you can choose which version of Apache http server you want by changing the tag  
-More information about tags please check [Apache, is a Web server - Docker Hub](https://hub.docker.com/_/httpd)  
+For more information about tags please check [Apache, is a Web server - Docker Hub](https://hub.docker.com/_/httpd)  
 
 ## conf
 
