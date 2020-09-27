@@ -1,5 +1,9 @@
 # Docker container for Apache web server
 
+## Requirements
+- docker
+- docker-compose
+
 ## port
 
 I use "9021:80" and "9022:443" as the port setting of the container.  
