@@ -1,6 +1,7 @@
 # Docker container for Apache web server
 
 ## Requirements
+Install following tools in your physicl environment:  
 - docker
 - docker-compose
 
