@@ -13,7 +13,7 @@ which is the default path of Apache's config file
 ## ssl
 
 If your project needs to use ssl certifications, you can put those files into this directory,  
-but you need to edit the corresponding settings in your congif file.  
+the port of https is set to 9022, you can change the setting in ../docker-compose.yml
 
 ## data
 

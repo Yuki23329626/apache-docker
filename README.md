@@ -13,7 +13,7 @@ You can change your setting in the docker-compose.yml
 
 ## build
 
-build the image of Apache as a container by docker-compose
+build the image of Apache with serveral settings in apache/Dockerfile as a container by docker-compose
 
 ```bash
 sh build.sh
