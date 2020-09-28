@@ -12,8 +12,9 @@ which is the default path of Apache's config file
 
 ## ssl
 
-If your project needs to use ssl certifications, you can put those files into this directory,  
-the port of https is set to 9022, you can change the setting in ../docker-compose.yml
+If your project needs to use CA certifications, you can put those files into this directory,  
+the port of https is set to 9022, you can change the setting in ../docker-compose.yml  
+CA files needs to be named as private.key, certificate.crt, and ca_bundle.crt respectively.
 
 ## data
 
