@@ -2,8 +2,8 @@
 
 ## Requirements
 Install following tools in your physical environment:  
-- (docker)[https://docs.docker.com/get-docker/]
-- (docker-compose)[https://docs.docker.com/compose/install/]
+- [docker](https://docs.docker.com/get-docker/)
+- [docker-compose](https://docs.docker.com/compose/install/)
 
 ## port
 
