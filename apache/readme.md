@@ -20,4 +20,4 @@ CA files needs to be named as private.key, certificate.crt, and ca_bundle.crt re
 
 Everything you put under the ./data/ will be copied into container's /usr/local/apache2/htdocs/  
 It's the default root of Apache(httpd:2.4) server.  
-As for me, I put the web page resources in this directory.  
+As for me, I put the relative resources of my web page(html, css, js) in this directory.  
