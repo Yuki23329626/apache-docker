@@ -16,6 +16,10 @@ it needs to send http://myWebsiteDomainName:9021 to get the correspoing resource
   
 You can change your setting in the docker-compose.yml
 
+## ssl
+It is default not using the https protocol  
+For more setting, you can modify the config file in the ./apache/conf/  
+
 ## build
 
 build the image of Apache with serveral settings in apache/Dockerfile as a container by docker-compose
