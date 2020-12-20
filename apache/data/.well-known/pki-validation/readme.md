@@ -1,2 +1,2 @@
 # well-known
-The place which can place the validation file of "ssl for free" service  
+The place where can place the validation file of "ssl for free" service  
