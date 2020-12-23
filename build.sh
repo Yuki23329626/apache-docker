@@ -1,6 +1,6 @@
 #!/bin/bash
 # Program:
-#	用來建立 apache web server docker container 的腳本
+#	The script is used to build apache container
 # History:
 # 2020/09/26	nxshen	First release
 PATH=/bin:/sbin:/usr/bin:/usr/sbin:/usr/local/bin:/usr/local/sbin:~/bin
